@@ -2,6 +2,9 @@
 User Default : root  
 Password : 1234  
 
+## DOWNLOAD ISO
+[Download here](https://github.com/hafidhh/B860H-HG680P-Armbian/releases/download/Armbian_22.08.0_Aml_s905x_bullseye/Armbian_22.08.0_Aml_s905x_bullseye_5.10.123_server_2022.06.17.img.gz)
+
 ## Buat Bootable  
 Extract  
 Buat bootable dengan bootable maker ([Rufus](https://rufus.ie/) atau [balenaEtcher](https://www.balena.io/etcher/))  
